@@ -1,4 +1,4 @@
-# iisg (Interactive Image Segmentation with Grahps)
+# iisg (Interactive Image Segmentation with Graphs)
 
 **iisg** es un prototipo de librería para segmentar imágenes basado en la taoría de grafos.
 
